@@ -31,4 +31,30 @@ An AI-powered web application that helps developers review and improve their cod
 ---
 
 ## 📁 Folder Structure
+AI-Code-Reviewer/
+├── Frontend/
+│ └── React app with editor and UI
+├── BackEnd/
+│ └── Express API with OpenAI integration
+├── README.md
+├── .gitignore
+
+
+---
+
+## ⚙️ Getting Started
+
+### 🔧 Prerequisites
+- Node.js and npm installed
+- MongoDB URI (local or Atlas)
+- OpenAI API Key
+
+---
+
+### 📦 Backend Setup
+
+```bash
+cd BackEnd
+npm install
+
 
