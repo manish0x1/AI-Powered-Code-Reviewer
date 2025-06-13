@@ -18,9 +18,6 @@ This is an AI-powered web application that reviews source code and provides inte
 
 - **Frontend:** React.js  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **AI:** OpenAI API  
-- **Deployment:** Vercel / GitHub Pages  
 
 ---
 
