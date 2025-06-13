@@ -57,4 +57,31 @@ AI-Code-Reviewer/
 cd BackEnd
 npm install
 
+Create a .env file in /BackEnd:
+PORT=5000
+MONGO_URI=your_mongodb_connection_string
+OPENAI_API_KEY=your_openai_api_key
+Run backend:
+
+bash
+npm start
+💻 Frontend Setup
+cd Frontend
+npm install
+npm start
+
+🔒 Environment Variables
+Variable	Description
+OPENAI_API_KEY	Your OpenAI API Key
+MONGO_URI	MongoDB connection string
+PORT	Backend server port
+
+🙋‍♂️ Author
+Manish Mahawar
+📧 [Your Email or LinkedIn]
+🔗 GitHub Profile
+
+
+
+
 
